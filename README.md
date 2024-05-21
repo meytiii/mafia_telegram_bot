@@ -1,6 +1,3 @@
-﻿
-Certainly! Here's the updated `README.md` file content with the provided GitHub repository URL and all the necessary information combined into one markdown:
-
 # Mafia Game Telegram Bot
 
 This is a Telegram bot for playing the Mafia game. The bot allows users to create Mafia games and view the game rules.

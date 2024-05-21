@@ -47,8 +47,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Please ensure that you replace `"YOUR_BOT_TOKEN"` in the installation section with your actual bot token obtained from BotFather.
-
-After updating the `README.md` file content, you can follow the previous steps to add, commit, and push the changes to your GitHub repository.

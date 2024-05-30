@@ -3,7 +3,7 @@ import string
 from telegram import Update, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = '7012299918:AAFh8L7YN-2jTmCL23Ublj4nBHkGRMrsoOQ'
+TOKEN = 'YOUR_TOKEN'
 
 active_games = {}
 user_games = {}
